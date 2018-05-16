@@ -1,6 +1,3 @@
-# basic-demo
+# Gradle demos
 
-Creating new gradle builds.
-
-See also: [Creating New Gradle Builds](https://guides.gradle.org/creating-new-gradle-builds)
-
+Gradle build scripts while learning [gradle.org](https://guides.gradle.org/)
